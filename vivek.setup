@@ -1,0 +1,9 @@
+Must Do Things
+    Setup Firebase for iOS and Android
+        build.gradle(both files)
+        AndroidManifest.xml
+
+        Copy Firbase cofig files to Both iOS
+    Setup Firebase Messaging
+
+    Check the path of MainActivity.kt file after changed bundle id

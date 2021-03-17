@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221160028393",
+    "firebase_url": "https://baqaala-new.firebaseio.com",
+    "project_id": "baqaala-new",
+    "storage_bucket": "baqaala-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221160028393:android:ae0499df83b6aaabf35878",
+        "android_client_info": {
+          "package_name": "com.baqaala.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221160028393-fov560c8482lbtu4cf9g0lcvobnrjj7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfSi4qxuGbKZffnWiTmI2uoOZiGbe-7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221160028393-fov560c8482lbtu4cf9g0lcvobnrjj7a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221160028393-idtcch1nreo5gt01fi1jpa133dr72r0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baqaala.new"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
